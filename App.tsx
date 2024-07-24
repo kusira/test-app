@@ -6,6 +6,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>kusirakusira</Text>
+      <Text>こんにちは</Text>
+      <Text>こんばんは</Text>
       <StatusBar style="auto" />
     </View>
   );
